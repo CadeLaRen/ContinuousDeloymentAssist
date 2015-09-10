@@ -1,0 +1,10 @@
+---
+TIME: '21:17'
+
+SHELL_EXECUTE:
+
+    - SCRIPT_PATH: '/Users/srsrinivas'
+      COMMAND: 'python test.py'
+
+    - SCRIPT_PATH: '/tmp'
+      COMMAND: 'python test1.py'
